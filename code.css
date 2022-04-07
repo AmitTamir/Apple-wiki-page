@@ -19,3 +19,12 @@
       width: 1074px;
       height: 13621;
     }
+    .table2{
+        border: 1px solid #a2a9b1;
+      background-color: #f8f9fa;
+      width: 300px;
+        
+    }
+    .table-head2{
+        text-align: center;
+    }

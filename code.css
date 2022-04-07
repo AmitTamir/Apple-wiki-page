@@ -1,0 +1,21 @@
+.first-heading{
+   
+    }
+    .table1{
+    width: 300px;
+    position:absolute;
+    right: 400px;
+      border: 1px solid #a2a9b1;
+      background-color: #f8f9fa;
+      /* float: right; */
+    }
+    .table1-head{
+         text-align: center; background-color: rgb(180,250,180);
+    }
+    .img-meaning{
+        text-align: center; font-size: 88%;
+    }
+    .body-content{
+      width: 1074px;
+      height: 13621;
+    }

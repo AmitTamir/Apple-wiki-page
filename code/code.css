@@ -1,3 +1,6 @@
+    /* .body-content{
+      position: relative;
+    } */
     .table1{
     width: 300px;
     position:absolute;
@@ -24,4 +27,8 @@
     }
     .table-head2{
         text-align: center;
+    }
+    .nav{
+      position: absolute;
+      left: 0px;
     }

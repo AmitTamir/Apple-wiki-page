@@ -7,6 +7,7 @@
     }
     .top-right{
      float: right;
+     position:relative;
     }
     .bottom-right{
       float: right;
@@ -30,10 +31,11 @@
       float: right;
     }
     .table-head1{
-         text-align: center; background-color: rgb(180,250,180);
+         text-align: center;
+         background-color: rgb(180,250,180);
     }
     .img-meaning{
-        text-align: center; font-size: 88%;
+        text-align: center; font-size: 88%; 
     }
     .body-content{
       width: 80%;
@@ -42,11 +44,11 @@
     .table2{
         border: 1px solid #a2a9b1;
       background-color: #f8f9fa;
-      width: 300px;
+      width: 400px;
         
     }
     .table-head2{
-        text-align: center;
+      text-align: center;
     }
     .nav{
       height:1500px ;
